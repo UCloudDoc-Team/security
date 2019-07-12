@@ -2,12 +2,12 @@
 
 {{indexmenu_n>20}}
 
-[security/change\_email](/account/security/change_email)
+[更改登录邮箱](/account/security/change_email)
 
-[security/change\_password](/account/security/change_password)
+[修改登录密码](/account/security/change_password)
 
-[security/change\_phonenumber](/account/security/change_phonenumber)
+[更换绑定手机号码](/account/security/change_phonenumber)
 
-[security/mfa](/account/security/mfa)
+[登录保护](/account/security/mfa)
 
-[](/account/security/changepasswordsregularly)
+[定期更改密码](/account/security/changepasswordsregularly)
