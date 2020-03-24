@@ -1,6 +1,6 @@
-<div class="sidebar_title"> 账号安全</div>
+# 概览
 
-* [概览](/security/README)
+
 * [更改登录邮箱](/security/change_email)
 * [修改登录密码](/security/change_password)
 * [更换绑定手机号码](/security/change_phonenumber)
