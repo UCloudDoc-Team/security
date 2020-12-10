@@ -1,4 +1,3 @@
-<div class="sidebar_title"> 账号安全</div>
 
 * [概览](/security/README)
 * [更改登录邮箱](/security/change_email)
