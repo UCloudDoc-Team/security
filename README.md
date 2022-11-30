@@ -6,4 +6,5 @@
 * [修改登录密码](/security/change_password)
 * [更换绑定手机号码](/security/change_phonenumber)
 * [登录保护](/security/mfa)
+* [登录保持时间](/security/session)
 * [定期更改密码](/security/changepasswordsregularly)
