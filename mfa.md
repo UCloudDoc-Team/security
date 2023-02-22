@@ -40,7 +40,6 @@ Algorithm）登录二次认证服务，开通本服务后，用户每次登录�
 二次认证服务开通后，当您用账号密码登录UCloud时，会要求您输入认证码。系统判断认证码有效方可获得访问授权  
 <img width="557" alt="image" src="https://user-images.githubusercontent.com/107971405/220560503-3f0a70a4-8961-4abc-b972-8cff438ef5f4.png">
 
-
 ### FAQ
 
 Q：UCloud APP无法扫描获取授权码怎么办？  
