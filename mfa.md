@@ -21,7 +21,12 @@ Algorithm）登录二次认证服务，开通本服务后，用户每次登录�
 <img width="836" alt="image" src="https://user-images.githubusercontent.com/107971405/220557737-8d685e61-31eb-4504-aede-55f55870ffe0.png">
 
 3\. 安装好后，打开UCloud APP，点击TOTP验证器，扫码添加获取授权码，也可以通过手动输入账号密钥获取授权码。
+#### 未登录态
 <img width="663" alt="image" src="https://user-images.githubusercontent.com/107971405/220559237-11773284-0ebf-485b-b812-6ce1f617ca23.png">
+
+#### 已登录态
+<img width="341" alt="image" src="https://user-images.githubusercontent.com/107971405/220574680-dde5b6c4-8744-456a-9ce1-12fe9baf3233.png">
+
 
 4\. 在页面方框内输入获取到的授权码，校验正确即完成绑定。温馨提示：以防设备更换导致密钥丢失，做好密钥备份。
 <img width="790" alt="image" src="https://user-images.githubusercontent.com/107971405/220559517-ab4986df-4cea-4d7f-9307-80cc446030f9.png">
