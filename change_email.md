@@ -2,8 +2,8 @@
 
 ## 更改登录邮箱
 
-1、进入用户中心-账号安全，点击邮箱绑定中的更换按钮  
-![](/images/account_20190102153732.png)
+1、进入账号安全-账号设置，点击邮箱绑定中的更换按钮  
+![image](https://github.com/UCloudDoc-Team/security/assets/107971405/56fd55e2-4c00-4076-9ba4-67800bab7634)
 
 2、收取邮件，填写邮箱验证码，点击下一步  
 ![](/images/account_20190102153507.png)
