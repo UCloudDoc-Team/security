@@ -2,8 +2,8 @@
 
 ## 更换绑定手机号码
 
-1、进入用户中心-账号安全，点击手机绑定中的更换按钮  
-![](/images/account_20190102151048.png)
+1、进入账号管理-账号安全，点击手机绑定中的修改按钮  
+![image](https://github.com/UCloudDoc-Team/security/assets/107971405/3f22a7cc-04fe-4bf8-802c-deccfb97dac2)
 
 2、点击发送验证码，收取并填写验证码，点击下一步  
 ![](/images/account_20190102151255.png)
