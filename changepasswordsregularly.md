@@ -6,12 +6,14 @@
 
 ## 管理员账号如何开启功能
 
-1.进入权限管理-人员管理页面  
-![](/images/90days_20190107114411.png)  
+1.进入访问控制-用户管理
+![image](https://github.com/UCloudDoc-Team/security/assets/107971405/88b8712c-d24c-498e-ba0d-5072dc35148d)
+
 2.找到子账号中的“定期更改密码”列进行开启或关闭操作  
-![](/images/90days_20190107113852.png)
+![image](https://github.com/UCloudDoc-Team/security/assets/107971405/7e0fd21b-b8ca-4b28-8dd9-95b7fefa0256)
 
 ## 如何查看功能状态
 
-不论是否为管理员账号，都可以打开账号安全页面，在账号密码模块中查看是否开启了该功能
-![](/images/90days_20190107115256.png)
+不论是否为管理员账号，都可以打开账号安全页面，在安全设置模块中查看是否开启了该功能
+![image](https://github.com/UCloudDoc-Team/security/assets/107971405/071918fb-c56b-4b7f-87b3-9489cf5e9553)
+
